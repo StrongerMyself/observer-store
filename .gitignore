@@ -1,0 +1,8 @@
+node_modules
+assets
+.env
+.awcache
+.idea
+*.log
+yarn.lock
+package-lock.json
